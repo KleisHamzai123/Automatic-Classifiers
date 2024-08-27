@@ -7,6 +7,6 @@ This repository contains Python implementations of three popular machine learnin
 - [Project Structure](#Working in a team of 4 members)
 - [Getting Started](#Usage of SCRUM during development)
 - [Implementation Details]
-  - [Support Vector Machine (SVM)](#support-vector-machine-svm)
-  - [k-Nearest Neighbors (KNN)](#k-nearest-neighbors-knn)
-  - [Random Forest](#random-forest)
+  - [Support Vector Machine (SVM)]
+  - [k-Nearest Neighbors (KNN)]
+  - [Random Forest]
